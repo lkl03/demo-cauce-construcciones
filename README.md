@@ -1,2 +1,7 @@
-# demo-cauce-construcciones
-Demo web para Cauce Construcciones — diseñada por eterlab.
+# Cauce Construcciones
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
